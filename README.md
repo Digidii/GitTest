@@ -1,2 +1,3 @@
 # GitTest
-Openclassroom Exercice 
+Openclassroom Exercice
+This is my first modification on Github project
